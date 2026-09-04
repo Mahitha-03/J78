@@ -1,15 +1,8 @@
 package com.java;
 
-public class Cricketer {
-	 
-	//static int jerseynumber;
-	//static String cricktername = "virat";
-	 
+public class Cricketer { 
 	int countryid;
 	String Countryname;
-	//Cricketer c1= new Cricketer();
-	
-
 	public static void main(String[] args) {
 		Cricketer c1= new Cricketer();
 		c1.countryid = 91;
